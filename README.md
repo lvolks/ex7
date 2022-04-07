@@ -84,3 +84,15 @@ public class ex7 {
 		leitor.close();
 	}
 }
+
+------------------------------------------------------------------------------------------------------------------------
+
+package br_edu_up;
+
+public class Aluno {
+	
+	public String nome;
+	public String matricula;
+	public double nota;
+
+}
